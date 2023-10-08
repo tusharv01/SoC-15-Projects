@@ -26,6 +26,8 @@ If you're interested in contributing to this repository we would love to hear fr
 
 This section lists the projects created by members of our cohort. Explore the projects, get involved, and collaborate!
 
+- **[Productivity Hub](projects/productivityHub)
+
 ## Learning Resources
 
 - **Tutorials:** A variety of tutorials and guides to expand your skills.
@@ -37,18 +39,12 @@ This section lists the projects created by members of our cohort. Explore the pr
 
 Browse and participate in collaboration proposals from cohort members. Collaborations are a great way to work together on exciting projects.
 
-## Community
-
-- **Announcements:** Stay updated with important announcements and news.
-- **Discussions:** Engage in discussions, ask questions, and share your thoughts with fellow cohort members.
-- **Events:** Discover virtual events, meetups, and activities related to our cohort.
-
 ## Contributors
 
 A big thank you to all the contributors who make this repository vibrant and collaborative! Your contributions are appreciated.
 
 ---
 
-**Note:** Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) when participating in this repository. We aim to maintain a respectful and inclusive environment for all members of our cohort.
+**Note:**  We aim to maintain a respectful and inclusive environment for all members of our cohort.
 
-We look forward to seeing your contributions and collaborations! If you have any questions or need assistance, don't hesitate to reach out in the "Discussions" section.
+We look forward to seeing your contributions and collaborations! 
