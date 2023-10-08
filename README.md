@@ -9,7 +9,6 @@ Welcome to the School of Code Bootcamp Cohort 15 Open Source Repository! This re
 - [Projects](#projects)
 - [Learning Resources](#learning-resources)
 - [Collaboration Proposals](#collaboration-proposals)
-- [Community](#community)
 - [Contributors](#contributors)
 
 ## Getting Started
