@@ -1,6 +1,6 @@
 # Contributing to SOC-15-PROJETS
 
-Thank you for your interest in contributing to this repository! We welcome contributions from everyone, whether it's for adding new projects, collaborating, adding to the learning resources or reporting issues. Here's how you can get involved:
+Thank you for your interest in contributing to this repository! We welcome contributions from all SOC Bootcamp Members, whether it's for adding new projects, collaborating, adding to the learning resources or reporting issues. Here's how you can get involved:
 
 ## How to Contribute
 
@@ -13,17 +13,23 @@ Thank you for your interest in contributing to this repository! We welcome contr
      git clone https://github.com/your-username/your-repository.git
      ```
 
-3. **Make Changes:**
+3. **Make a New Branch**
+   - Make a new branch with a description of the change e.g. project/new_project , issue/bug_fix
+         ```sh
+     git checkout -b branch_name
+     ```
+
+4. **Make Changes:**
    - Make the desired changes on your local machine.
    - Commit your changes:
      ```sh
      git commit -m "Your descriptive commit message"
      ```
 
-4. **Create a Pull Request:**
+5. **Create a Pull Request:**
    - Push your changes to your fork:
      ```sh
-     git push origin main
+     git push origin branch_name
      ```
    - Visit the original repository on GitHub and click the "New Pull Request" button.
    - Follow the prompts to create a pull request with your changes.
@@ -41,17 +47,23 @@ To submit a new project to the repository, please follow these steps:
      git clone https://github.com/your-username/your-repository.git
      ```
 
-3. **Copy the Project Template:**
+3. **Make a New Branch**
+   - Make a new branch with a description of the change e.g. project/new_project , issue/bug_fix
+         ```sh
+     git checkout -b branch_name
+     ```
+
+4. **Copy the Project Template:**
    - Copy the project template from the templates folder
    - Paste the template in the projects folder and rename to your projects name.
 
-4. **Fill in Project Details:**
+5. **Fill in Project Details:**
    - Edit the new project file (`basic_info.md`) to provide details about your project. Follow the template's structure. Add videos and screenshots to the relevant folders.
 
-5. **Update the README:**
+6. **Update the README:**
    - In the repository's main README (located at the top level), add an entry for your new project. Include a link to your project file and a brief description.
 
-6. **Create a Pull Request:**
+7. **Create a Pull Request:**
    - Push your changes to your fork.
    - Visit the original repository on GitHub and create a pull request to submit your new project.
 
@@ -63,6 +75,42 @@ To propose a collaboration with other community members, please follow these ste
    - Click the "Fork" button at the top right of this repository to create your copy.
 
 2. **Clone Your Fork:** (if you haven't already)
+   - Clone the repository to your local machine:
+     ```sh
+     git clone https://github.com/your-username/your-repository.git
+     ```
+
+3. **Make a New Branch**
+   - Make a new branch with a description of the change e.g. issue/issue_fix
+         ```sh
+     git checkout -b branch_name
+     ```
+
+4. **Make Changes:**
+   - Make the desired changes on your local machine.
+   - Commit your changes:
+     ```sh
+     git commit -m "Your descriptive commit message"
+     ```
+
+5. **Create a Pull Request:**
+   - Push your changes to your fork:
+     ```sh
+     git push origin branch_name
+     ```
+   - Visit the original repository on GitHub and click the "New Pull Request" button.
+   - Follow the prompts to create a pull request with your changes.
+
+## Working on an issue ##
+
+1. **Select an issue to work on** 
+   - Pick an issue you want to work on and leave a comment saying you want to work on it.
+   - Wait for the issue to be assigned to you.
+
+2. **Fork the Repository:** (if you haven't already)
+   - Click the "Fork" button at the top right of this repository to create your copy.
+
+3. **Clone Your Fork:** (if you haven't already)
    - Clone the repository to your local machine:
      ```sh
      git clone https://github.com/your-username/your-repository.git
@@ -95,17 +143,22 @@ To submit an issue (e.g., bug report, feature request), please follow these step
      ```sh
      git clone https://github.com/your-username/your-repository.git
      ```
+3. **Make a New Branch**
+   - Make a new branch with a description of the change e.g. project/new_project , issue/bug_fix
+         ```sh
+     git checkout -b branch_name
+     ```
 
-3. **Create a New Issue:**
+4. **Create a New Issue:**
    - Navigate to the "Issues" tab at the top of the repository.
    - Click the "New Issue" button.
 
 
-4. **Fill out the Issue Template:**
+5. **Fill out the Issue Template:**
    - Complete the fields and questions in the template to provide detailed information about your issue.
    - Be as clear and concise as possible to help us understand the problem or suggestion.
 
-5. **Submit the Issue:**
+6. **Submit the Issue:**
    - Click the "Submit New Issue" button to create your issue.
 
 
