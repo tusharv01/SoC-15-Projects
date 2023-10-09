@@ -14,8 +14,8 @@ Thank you for your interest in contributing to this repository! We welcome contr
      ```
 
 3. **Make a New Branch**
-   - Make a new branch with a description of the change e.g. project/new_project , issue/bug_fix
-         ```sh
+   - Make a new branch with a description of the change e.g. project/new_project , issue/bug_fix:
+      ```sh
      git checkout -b branch_name
      ```
 
@@ -48,8 +48,8 @@ To submit a new project to the repository, please follow these steps:
      ```
 
 3. **Make a New Branch**
-   - Make a new branch with a description of the change e.g. project/new_project , issue/bug_fix
-         ```sh
+   - Make a new branch with a description of the change e.g. project/new_project
+      ```sh
      git checkout -b branch_name
      ```
 
@@ -81,8 +81,8 @@ To propose a collaboration with other community members, please follow these ste
      ```
 
 3. **Make a New Branch**
-   - Make a new branch with a description of the change e.g. issue/issue_fix
-         ```sh
+   - Make a new branch with a description of the change e.g. collab/collab_name:
+      ```sh
      git checkout -b branch_name
      ```
 
@@ -116,6 +116,12 @@ To propose a collaboration with other community members, please follow these ste
      git clone https://github.com/your-username/your-repository.git
      ```
 
+4. **Make a New Branch**
+   - Make a new branch with a description of the change e.g. issue/issue_fix:
+      ```sh
+     git checkout -b branch_name
+     ```
+
 3. **Copy the Collaboration Proposal Template:**
    - look at the collaborationList.md and pick the next number
    - add a new entry matching the template entries.
@@ -145,7 +151,7 @@ To submit an issue (e.g., bug report, feature request), please follow these step
      ```
 3. **Make a New Branch**
    - Make a new branch with a description of the change e.g. project/new_project , issue/bug_fix
-         ```sh
+     ```sh
      git checkout -b branch_name
      ```
 
